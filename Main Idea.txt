@@ -1,0 +1,10 @@
+Create a proximity index between every two countries
+Economic: import and export
+Culture: Language, religion, conflict
+Geographic: distance between countries
+
+
+
+
+List Countries functional for calculating distances between countries
+Main function would be "calc_index"
